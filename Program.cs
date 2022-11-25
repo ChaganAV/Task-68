@@ -19,5 +19,4 @@ int Akkerman(int m, int n)
     }
     else
         return 0;
-    
 }
