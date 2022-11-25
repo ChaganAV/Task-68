@@ -1,0 +1,15 @@
+D:\Code\GB\task-68\obj\Debug\net7.0\task-68.csproj.AssemblyReference.cache
+D:\Code\GB\task-68\obj\Debug\net7.0\task-68.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\GB\task-68\obj\Debug\net7.0\task-68.AssemblyInfoInputs.cache
+D:\Code\GB\task-68\obj\Debug\net7.0\task-68.AssemblyInfo.cs
+D:\Code\GB\task-68\obj\Debug\net7.0\task-68.csproj.CoreCompileInputs.cache
+D:\Code\GB\task-68\bin\Debug\net7.0\task-68.exe
+D:\Code\GB\task-68\bin\Debug\net7.0\task-68.deps.json
+D:\Code\GB\task-68\bin\Debug\net7.0\task-68.runtimeconfig.json
+D:\Code\GB\task-68\bin\Debug\net7.0\task-68.dll
+D:\Code\GB\task-68\bin\Debug\net7.0\task-68.pdb
+D:\Code\GB\task-68\obj\Debug\net7.0\task-68.dll
+D:\Code\GB\task-68\obj\Debug\net7.0\refint\task-68.dll
+D:\Code\GB\task-68\obj\Debug\net7.0\task-68.pdb
+D:\Code\GB\task-68\obj\Debug\net7.0\task-68.genruntimeconfig.cache
+D:\Code\GB\task-68\obj\Debug\net7.0\ref\task-68.dll
